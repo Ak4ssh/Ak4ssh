@@ -10,7 +10,7 @@
 
   - Currently Residing in Kolkata, India.
   
-  ![ Ak4ssH ](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak4ssH&theme=yellow-green)
+  ![ Ak4ssH ](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak4ssH&theme=blue-green)
   
 
  </i> 
