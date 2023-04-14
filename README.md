@@ -37,4 +37,4 @@
 
  -   <h4 align="center">Stats 📊</h4> 
 
-    <img alt="Stats" style="padding-bottom:50px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=ak4ssh&show_icons=true&theme=codeSTACKr&custom_title=Ak4ssH's+Github+Stats&include_all_commits=true&count_private=true">
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=Ak4ssH&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Ak4ssH's+Github+Stats)](https://t.me/TheVenomXD)
