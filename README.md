@@ -35,9 +35,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ak4sh.arc)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheVenomXD)
 
-## Stats
+ -   <h4 align="center">Stats 📊</h4> 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Ak4ssH)
-
-
-
+    <img alt="Stats" style="padding-bottom:50px;width: 100%" src="https://github-readme-stats.vercel.app/api?username=MrRizoel&show_icons=true&theme=codeSTACKr&custom_title=RiZoeL's+Github+Stats&include_all_commits=true&count_private=true">
