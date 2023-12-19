@@ -6,18 +6,21 @@
 - **Nationality:** 🇮🇳 Indian
 - **Current Location:** 🏙️ Kolkata, India.
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak4ssH&theme=blue-green)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak4ssH&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Ak4ssH's+Github+Stats)
+
+![Akash's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ak4ssH&theme=blue-green)
 
 ## Programming Languages:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![HTML](https://img.shields.io/badge/HTML5-f34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Learning:
 
 - ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML5-f34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ## Connect with Me:
 
@@ -32,7 +35,27 @@
 - 🎸 Playing with strings in both code and music.
 - 📚 Learning something new every day.
 
-## Stats 📊:
+## Open Source Contributions:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak4ssH&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Ak4ssH's+Github+Stats)](https://github.com/Ak4ssH)
+- Contributed to [Project ABC](https://github.com/projectabc)
+- Enhanced [Project XYZ](https://github.com/projectxyz)
 
+## Tech Stack:
+
+- 💻 Full-stack developer
+- 📱 Mobile app enthusiast
+- 🌐 Web technologies and frameworks
+
+## Projects:
+
+### [Project 1](https://github.com/project1)
+
+Description of Project 1.
+
+### [Project 2](https://github.com/project2)
+
+Description of Project 2.
+
+## Total Commits:
+
+![Total Commits](https://img.shields.io/github/commit-activity/m/Ak4ssH/Ak4ssH?label=Total%20Commits&style=for-the-badge)
