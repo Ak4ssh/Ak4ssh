@@ -16,7 +16,7 @@ public class GitHubProfileGenerator {
 
         try {
             // Read the template file
-            String templateContent = Files.readString(Path.of("README_TEMPLATE.md"));
+            String templateContent = Files.readString(Path.of("README.md"));
 
             // Replace placeholders with actual data
             String readmeContent = templateContent
