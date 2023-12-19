@@ -34,4 +34,5 @@
 
 ## Stats 📊:
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak4ssH&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Ak4ssH's+Github+Stats)](https://t.me/TheVenomXD)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ak4ssH&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Ak4ssH's+Github+Stats)](https://github.com/Ak4ssH)
+
